@@ -5,8 +5,8 @@ I'm well schooled with Python, Java, and C++, and have a few projects I wanted t
 If you want to contact me you can email me, I also have my LinkedIn attached below.
 
 ## Contact
-Email: prinsgervais.jake.t@gmail.com; 
-LinkedIn: https://www.linkedin.com/in/jake-prins-gervais/
+- Email: prinsgervais.jake.t@gmail.com; 
+- LinkedIn: https://www.linkedin.com/in/jake-prins-gervais/
 
 <!---
 JakePG7/JakePG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
