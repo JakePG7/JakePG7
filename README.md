@@ -5,7 +5,8 @@ I'm well schooled with Python, Java, and C++, and have a few projects I wanted t
 If you want to contact me you can email me, I also have my LinkedIn attached below.
 
 ## Contact
-- Email: prinsgervais.jake.t@gmail.com; 
+- Email: prinsgervais.jake.t@gmail.com
+- Facebook: https://www.facebook.com/JakePrinsGervais/
 - LinkedIn: https://www.linkedin.com/in/jake-prins-gervais/
 
 <!---
