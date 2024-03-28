@@ -6,8 +6,8 @@ If you want to contact me you can email me, I also have my LinkedIn attached bel
 
 ## Contact
 - Email: prinsgervais.jake.t@gmail.com
-- Facebook: https://www.facebook.com/JakePrinsGervais/
 - LinkedIn: https://www.linkedin.com/in/jake-prins-gervais/
+- Facebook: https://www.facebook.com/JakePrinsGervais/
 
 <!---
 JakePG7/JakePG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
