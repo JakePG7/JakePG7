@@ -1,4 +1,4 @@
-## Hey! I’m Jake Prins-Gervais, 
+## Hey! I’m Jake Prins-Gervais
 I'm currently studying at the University of British Columbia in the Class of 2026. 
 I'm majoring in Computer Science & Chemistry, with future plans to work in front end development!
 I'm well schooled with Python, Java, and C++, and have a few projects I wanted to share for funsies.
